@@ -1,2 +1,4 @@
 # Practice-of-DS
-instead of creating lots of repository creating one folder where i can upload learning .Project will have different repository 
+Instead of creating lots of repositories 
+I created one folder where I can upload learning. 
+The project will have a different repository 
